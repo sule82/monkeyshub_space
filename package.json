@@ -1,0 +1,48 @@
+{
+  "name": "theme-next-docs",
+  "version": "8.6.1",
+  "description": "Elegant and powerful theme for Hexo.",
+  "keywords": [
+    "hexo",
+    "theme",
+    "next"
+  ],
+  "homepage": "https://theme-next.js.org",
+  "bugs": {
+    "url": "https://github.com/next-theme/theme-next-docs/issues"
+  },
+  "license": "CC-BY-NC-SA-4.0",
+  "author": "iissnan <iissnan@gmail.com>",
+  "repository": {},
+  "scripts": {
+    "highlight": "node lib/highlight.js",
+    "start": "hexo s",
+    "update": "node lib/update.js",
+    "version": "git add source",
+    "lint": "markdownlint -c .markdownlint.json source/docs"
+  },
+  "dependencies": {
+    "hexo": "5.4.0",
+    "hexo-filter-emoji": "^2.2.2",
+    "hexo-generator-archive": "1.0.0",
+    "hexo-generator-category": "^1.0.0",
+    "hexo-generator-feed": "3.0.0",
+    "hexo-generator-index": "2.0.0",
+    "hexo-generator-searchdb": "1.3.4",
+    "hexo-generator-sitemap": "^2.1.0",
+    "hexo-generator-tag": "^1.0.0",
+    "hexo-renderer-marked": "4.0.0",
+    "hexo-renderer-stylus": "2.0.1",
+    "hexo-server": "2.0.0",
+    "hexo-tag-cplayer": "^1.0.0",
+    "hexo-theme-next": "8.6.1",
+    "hexo-word-counter": "^0.0.3"
+  },
+  "devDependencies": {
+    "markdownlint-cli": "0.27.1"
+  },
+  "private": true,
+  "hexo": {
+    "version": "5.4.0"
+  }
+}

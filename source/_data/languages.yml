@@ -1,0 +1,19 @@
+en:
+  name: English
+  subtitle: Theme for Hexo
+  author: Theme NexT
+  description: Stay Simple. Stay NexT.
+ba:
+  name: Bosanski
+  author: Adnan Sulejmanovic
+  description: design ~ network ~ marketing
+  menu:
+    News: Novosti
+    Docs: Dokumentacija
+    Getting Started: Započni
+    Theme Settings: Postavke teme
+    Third Party Services: Trećerazredni servisi
+    Algolia Search: Angolia pretraga
+    Tag Plugins: Dodatci oznaka
+    Advanced Settings: Napredne postavke
+    FAQ's: Pitanja i odgovori
