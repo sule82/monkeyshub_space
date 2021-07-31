@@ -83,60 +83,17 @@ creative_commons:
 # External url should start with http:// or https://
 menu:
   home: / || fa fa-sun
-  Persona: /persona/ || fa fa-theater-masks
+
+  Persona:
+    default: /persona/ || fa fa-theater-masks
+    Summary: /#Osvrt || fa fa-info
+    Skills: /#Vjestine-amp-Usluge || fa fa-laptop-code
+    Apps: /#Software-i-aplikacije || fa fa-puzzle-piece
+    Jobs: /#Radno-iskustvo || fa fa-store
+    Contact: /#Klik-za-kontakt || fab fa-rocketchat
+    Resume: /#Resume || fa fa-atlas
+
   Projekti: /black_hole/Projects/ || fa fa-icons
-  Docs:
-    default: /docs/ || fa fa-book
-
-    Getting Started:
-      default: /getting-started/ || fa fa-flag
-      Installation: /installation.html || fa fa-download
-      Deployment: /deployment.html || fa fa-upload
-      Configuration: /configuration.html || fa fa-wrench
-      Upgrade: /upgrade.html || fa fa-history
-
-    Theme Settings:
-      default: /theme-settings/ || fa fa-star
-      Sidebar: /sidebar.html || fa fa-bars
-      Footer: /footer.html || fa fa-sticky-note
-      Posts: /posts.html || fa fa-paragraph
-      Custom Pages: /custom-pages.html || fa fa-swatchbook
-      Miscellaneous: /miscellaneous.html || fa fa-university
-      SEO: /seo.html || fa fa-external-link-square-alt
-      i18n: /internationalization.html || fa fa-globe-asia
-
-    Third Party Services:
-      default: /third-party-services/ || fa fa-puzzle-piece
-      Math Equations: /math-equations.html || fa fa-square-root-alt
-      Comment Systems: /comments.html || fa fa-comment-alt
-      Post Widgets: /post-widgets.html || fa fa-gift
-      Statistics and Analytics: /statistics-and-analytics.html || fa fa-chart-pie
-      Search Services: /search-services.html || fab fa-algolia
-      Chat Services: /chat-services.html || fa fa-comments
-      External Libraries: /external-libraries.html || fa fa-lightbulb
-
-    Tag Plugins:
-      default: /tag-plugins/ || fa fa-rocket
-      Button: /button.html || fa fa-cube
-      Caniuse: /caniuse.html || fa fa-signal
-      Group Pictures: /group-pictures.html || fa fa-images
-      Label: /label.html || fa fa-hat-wizard
-      Link Grid: /link-grid.html || fa fa-grip-vertical
-      Mermaid: /mermaid.html || fa fa-project-diagram
-      Note: /note.html || fa fa-adjust
-      PDF: /pdf.html || fa fa-file-pdf
-      Tabs: /tabs.html || fa fa-columns
-
-    Advanced Settings:
-      default: /advanced-settings/ || fa fa-cog
-      Vendors: /vendors.html || fa fa-plug
-      Custom Files: /custom-files.html || fa fa-palette
-      Injects: injects.html || fa fa-layer-group
-      Front Matter: /front-matter.html || fa fa-edit
-
-    Troubleshooting: /troubleshooting.html || fa fa-life-ring
-
-  Plugins: /plugins/ || fa fa-flask
   archives: /cosmos/ || fa fa-toilet-paper
   #sitemap: /sitemap.xml || fa fa-sitemap
   #commonweal: /404/ || fa fa-heartbeat
@@ -225,7 +182,7 @@ toc:
   # If true, all level of TOC in a post will be displayed, rather than the activated part of it.
   expand_all: false
   # Maximum heading depth of generated toc.
-  max_depth: 6
+  max_depth: 4
 
 
 # ---------------------------------------------------------------
@@ -408,14 +365,14 @@ codeblock:
   # Code Highlight theme
   # All available themes: https://theme-next.js.org/highlight/
   theme:
-    light: routeros
-    dark: tomorrow-night-eighties
+    light: gruvbox-light
+    dark: gruvbox-dark
   prism:
     light: prism
     dark: prism-dark
   # Add copy button on codeblock
   copy_button:
-    enable: false
+    enable: true
     # Available values: default | flat | mac
     style: flat
 
@@ -485,13 +442,13 @@ font:
   # Font settings for site title (.site-title).
   title:
     external: true
-    family: Nova Round
+    family: Saira Stencil One
     size:
 
   # Font settings for headlines (<h1> to <h6>).
   headings:
     external: true
-    family: Nova Round
+    family: Saira Stencil One
     size:
 
   # Font settings for posts (.post-body).
@@ -502,7 +459,7 @@ font:
   # Font settings for <code> and code blocks.
   codes:
     external: true
-    family: NovaMono
+    family: Fira Mono
 
 
 # ---------------------------------------------------------------
@@ -612,7 +569,7 @@ quicklink:
 # Multiple Comment System Support
 comments:
   # Available values: tabs | buttons
-  style: tabs
+  style: buttons
   # Choose a comment system to be displayed by default.
   # Available values: disqus | disqusjs | changyan | livere | gitalk | utterances
   active:
@@ -896,8 +853,8 @@ nprogress:
 # For more information: https://github.com/hustcc/ribbon.js
 canvas_ribbon:
   enable: true
-  size: 300 # The width of the ribbon
-  alpha: 0.6 # The transparency of the ribbon
+  size: 240 # The width of the ribbon
+  alpha: 0.3 # The transparency of the ribbon
   zIndex: -1 # The display level of the ribbon
 
 

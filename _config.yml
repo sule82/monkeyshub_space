@@ -17,9 +17,9 @@ permalink_defaults:
 # Directory
 source_dir: source
 public_dir: public
-tag_dir: stars/
-archive_dir: cosmos/
-category_dir: black_hole/
+tag_dir: stars
+archive_dir: cosmos
+category_dir: black_hole
 code_dir: downloads/code
 i18n_dir: :lang
 skip_render:

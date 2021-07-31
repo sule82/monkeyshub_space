@@ -1,7 +1,7 @@
 ---
 title: Highlight JS
-date: 09.03.2020 15:01:00
-updated: 09.03.2020 15:01:00
+date: 2020-03-10 12:01:00
+updated: 2020-03-10 12:01:00
 categories:
   - Resources
 tags:
@@ -10,13 +10,13 @@ tags:
   - opensource
 ---
 
-<a href="opensource_resursi_highlightjs" aria-label="pročitaj" title="Highlight JS">{% img /covers/highlightjs.png '"highlight.js" "highlight.js"' %}</a>
+<a href="opensource_resursi_highlightjs" aria-label="pročitaj" title="Highlight JS">{% img /covers/highlightjs.webp '"highlight.js" "highlight.js"' %}</a>
 
 <!--more-->
 
-## Upotreba
+# Upotreba
 
-### node.js & hexo.js
+## node.js & hexo.js
 
 **npm** instalacija & **yml** struktura
 
@@ -35,7 +35,7 @@ highlight:
     dark: tomorrow-night-eighties
 ```
 
-### javascript injekcija
+## javascript injekcija
 
 ```html
 <link rel="stylesheet" href="/path/to/styles/default.css">
@@ -48,7 +48,7 @@ highlight:
 <pre><code class="language-html">...</code></pre>
 ```
 
-### Fetch preko CDN-a
+# Fetch preko CDN-a
 
 ```html
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/styles/default.min.css">
@@ -58,13 +58,13 @@ highlight:
 
 ```
 
-## Lokalni cheatsheet sa pregledom
+# Lokalni cheatsheet sa pregledom
 
 Brzi pregled tema za {% label success@highlight.js %} *(highlighter sintaksi za web)* i `kod` za implementaciju u **hexo.js**:
 
 <p class="centar">{% button /highlight, &nbsp;highlight.js cheetsheet, icon fa fa-paint-bucket, highlight js %}</p>
 
-## Oficijela Stranica
+# Oficijela Stranica
 
 <p class="centar">
 {% button https://highlightjs.org/, &nbsp;highlight.js official web sajt, icon fa fa-paint-brush, highlightjs.org %}

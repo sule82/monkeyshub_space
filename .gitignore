@@ -7,3 +7,5 @@ deploy.sh
 docs/
 animate/
 highlight/
+plugins/
+_theme_backup/

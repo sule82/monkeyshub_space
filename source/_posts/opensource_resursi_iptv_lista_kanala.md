@@ -1,7 +1,7 @@
 ---
 title:  IPTV Lista Besplatnih Kanala
-date:  21.03.2020 14:23:10
-updated: 21.03.2020 14:23:10
+date:  2020-04-09 19:45:00
+updated: 2020-04-09 19:45:00
 categories:
   - Resources
 tags:
@@ -10,13 +10,13 @@ tags:
   - stream
 ---
 
-<a href="opensource_resursi_iptv_lista_kanala" aria-label="pročitaj" title="IPTV Lista Besplatnih Kanala">{% img /covers/freeiptv.png '"iptv org" "iptv org"' %}</a>
+<a href="opensource_resursi_iptv_lista_kanala" aria-label="pročitaj" title="IPTV Lista Besplatnih Kanala">{% img /covers/freeiptv.webp '"iptv org" "iptv org"' %}</a>
 
 Kompilacija **8000+ javno dostupnih** IPTV kanala, i resursi *korisnih* besplatnih aplikacija, alata.
 
 <!--more-->
 
-## Kako koristiti
+# Kako koristiti
 
 Sve kanale možeš naći u listi na `https://iptv-org.github.io/iptv/index.m3u`. Dok za grupisane liste, prema državama, sadržaju ili jezičnom području koristite jedan od slijedecih linkova:
 
@@ -29,11 +29,11 @@ Sve kanale možeš naći u listi na `https://iptv-org.github.io/iptv/index.m3u`.
 
 Primjer pokretanja linka u VLC plejeru:
 
-{% img /covers/vlc_iptv_link.png '"vlc network source" "vlc network source"' %}
+{% img /covers/vlc_iptv_link.webp '"vlc network source" "vlc network source"' %}
 
 Ako imaš problema sa učitavanjem gore navedenih {% label warning@ogromnih %} listi, izaberi jednu od dole navedenih.
 
-## Plejliste po kategorijama
+# Plejliste po kategorijama
 
 <table>
 	<thead>
@@ -70,13 +70,13 @@ Ako imaš problema sa učitavanjem gore navedenih {% label warning@ogromnih %} l
 	</tbody>
 </table>
 
-## Plejliste po jezičnom području i državama
+# Plejliste po jezičnom području i državama
 
 Tabele možeš pronaći na linkovima:
 
 <div class="centar">{% btn https://github.com/sule82/iptv-1/blob/master/README.md#playlists-by-language, &nbsp;Plejliste prema jeziku, fa fa-th-list, iptv plejlista %}{% btn https://github.com/sule82/iptv-1/blob/master/README.md#playlists-by-country, &nbsp;Plejliste po zemljama, fa fa-th-list, iptv plejlista %}</div>
 
-## Natuknice za spomenute liste
+# Natuknice za spomenute liste
 
 Da bi dobio link za bilo koju listu po **kategoriji** koristi ovaj i listu kategorija:
 
@@ -90,18 +90,18 @@ Za plejliste po **zemlji**:
 
 `https://iptv-org.github.io/iptv/countries/000.m3u` Gdje `000` može biti: `ba` za Bosnu, `hr` za Hrvatsku, `rs` za Srbiju, `de` za Njemačku itd, prema [ISO 3166 dvoslovnom kodu zemlje](https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes).
 
-## Lista korisnih resursa vezanih za IPTV
+# Lista korisnih resursa vezanih za IPTV
 
-### Aplikacije
+## Aplikacije
 
-#### Web aplikacije
+### Web aplikacije
 
 - [Jackal](http://jackal.surge.sh) - Gledaj TV iz browsera, ponuđenu listu kanala ili učitaj svoj kanal ili listu.  
 - [IPTV Plejer](https://iptv.maheshwarravuri.com) - Open-soure Flutter aplikacija preko koje možeš gledati javno dostupne kanale.
 - [Tele.Lollo](https://farina00.github.io/tele.lollo) - Lagani sajt koji stream-a italijanske kanale.
 - [WhatsUp TV](https://whatsuptv.app/) - Plejer za IPTV (.m3u) plejliste.
 
-#### Windows
+### Windows
 
 - [VLC za Windows](https://www.videolan.org/vlc/download-windows.html) - Besplatan opensource portable plejer.
 - [Kodi](https://kodi.tv/) - Besplatan plejer sa lib podrškom.
@@ -112,7 +112,7 @@ Za plejliste po **zemlji**:
 - [WhatsUp TV](https://www.microsoft.com/ru-ru/p/whatsup-tv/9pggvdsbtfvs?activetab=pivot:overviewtab) - IPTV (.m3u) plejlist plejer.
 - [Astroncia IPTV](https://gitlab.com/astroncia/iptv/-/blob/master/README.en.md) - IPTV plejer.
 
-#### macOS
+### macOS
 
 - [VLC za Mac OS X](https://www.videolan.org/vlc/download-macosx.html) - Besplatan opensource plejer.
 - [IINA](https://iina.io/) - Moderni plejer.
@@ -121,7 +121,7 @@ Za plejliste po **zemlji**:
   - [IPTV Simple PVR](https://kodi.tv/addon/pvr-client/pvr-iptv-simple-client) - IPTV Live TV i Radio PVR klijent za Kodi.
 - [IPTVnator](https://github.com/4gray/iptvnator) - Besplatna IPTV streaming aplikacija sa mnogobrojnm opcijama.
 
-#### Linux
+### Linux
 
 - [VLC za Linux](https://www.videolan.org/vlc/#download) - FBesplatan opensource portable plejer.
 - [Kodi](https://kodi.tv/) - Besplatan plejer sa lib podrškom.
@@ -131,7 +131,7 @@ Za plejliste po **zemlji**:
 - [FreetuxTV](https://github.com/freetuxtv/freetuxtv) - Internet televizija i radio plejer.
 - [Astroncia IPTV](https://gitlab.com/astroncia/iptv/-/blob/master/README.en.md) - IPTV plejer.
 
-#### iOS
+### iOS
 
 - [GSE SMART IPTV](https://apps.apple.com/us/app/gse-smart-iptv/id1028734023) - Kompletno napredno rješenje za IPTV živi i ne živi TV / stream.
 - [Movie Stream: Watch Smart IPTV](https://apps.apple.com/us/app/movie-stream-ip-tv-films/id1450912244) - Chromecast-enabled aplikacija za stream-anje videa sa mobitela na tv.
@@ -140,7 +140,7 @@ Za plejliste po **zemlji**:
 - [FastoTV Lite](https://apps.apple.com/us/app/fastotvlite/id1496936356) - Opensource ad-free IPTV klijent.
 - [WhatsUp TV](https://apps.apple.com/us/app/whatsup-tv/id1476950273) - Plejer za IPTV (.m3u) plejliste.
 
-#### Android
+### Android
 
 - [NET IP TV](https://play.google.com/store/apps/details?id=com.dnamedya.netiptv) - IPTV plejer.
 - [Kodi](https://play.google.com/store/apps/details?id=org.xbmc.kodi) - Besplatan plejer sa lib podrškom.
@@ -160,20 +160,20 @@ Za plejliste po **zemlji**:
 - [kantv](https://github.com/zhouwg/kantv) - Opensource plejer.
 - [TV.io Home Streaming](https://play.google.com/store/apps/details?id=com.player.online.tv&gl=GB) - IPTV streaming sa Chromcast podrškom i chatom.
 
-#### Smart TV
+### Smart TV
 
 - [SS IPTV](https://ss-iptv.com/) - Smart TV aplikacija.
 
-#### PlayStation
+### PlayStation
 
 - [Plex](https://www.plex.tv/apps-devices/#modal-devices-playstation-4) - Klijent-server medijski plejer. Za gledanje IPTV možeš koristiti [Cigaras/IPTV.bundle](https://github.com/Cigaras/IPTV.bundle) plugin.
 
-#### Xbox
+### Xbox
 
 - [WhatsUp TV](https://www.microsoft.com/ru-ru/p/whatsup-tv/9pggvdsbtfvs?activetab=pivot:overviewtab) - Plejer za IPTV (.m3u) plejliste.
 - [Open IPTV](https://www.microsoft.com/en-us/p/open-iptv/9n9gc8l5mldm) - Moderni IPTV plejer.
 
-### Provajderi
+## Provajderi
 
 Lista besplatnih IPTV provajdera.
 
@@ -199,7 +199,7 @@ Lista besplatnih IPTV provajdera.
 - [TDTChannels](https://www.tdtchannels.com/)
 - [OnlineStream.live](https://onlinestream.live/)
 
-### Resursi podataka o kanalima
+## Resursi podataka o kanalima
 
 - [LyngSat](https://www.lyngsat.com/) - baza satelitskih kanala sa informacijama hvatanja signala.
 - [LyngSat Logo](https://www.lyngsat-logo.com/) - kolekcija logotipa TV kanala
@@ -207,7 +207,7 @@ Lista besplatnih IPTV provajdera.
 - [IPTV](https://iptv-org.netlify.app/) - React aplikacija koja
 kompilira IPTV repo README.md u HTML, kategoriše M3U listu.
 
-### EPG resursi
+## EPG resursi
 
 - [EPG for IPTV](https://www.iptv-epg.com/)
 - [epg.streamstv.me](http://epg.streamstv.me/epg/)
@@ -218,7 +218,7 @@ kompilira IPTV repo README.md u HTML, kategoriše M3U listu.
 - [XML TV](http://xmltv.bigsb.fr/)
 - [deepepg](https://www.deepepg.com/)
 
-## Alati
+# Alati
 
 
 - [WebGrab+Plus](http://www.webgrabplus.com/) - Multi-sajt XMLTV EPG grabber.
@@ -230,7 +230,7 @@ kompilira IPTV repo README.md u HTML, kategoriše M3U listu.
 - [m3u4u](https://m3u4u.com/) - Kreiraj, uredi, sortiraj, m3u listu online, EPG itd.
 - [Streamlink](https://streamlink.github.io/index.html) - cli alatka za ekstrakciju stream-ova iz raznih servisa i usmjeravanje u video plajer po izboru.
 
-### Streamlink Proxy
+## Streamlink Proxy
 
 dopušta krajnjem korisniku pristup listama sa [Streamlink](https://streamlink.github.io/plugin_matrix.html)-podržanih kanala.
 
