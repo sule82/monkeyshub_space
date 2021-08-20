@@ -47,7 +47,7 @@ Tranzicioni slajd format korištenjem skromno dostavljenog historijskog materija
 
 ## Lokalni link:
 
-{% video /covers/fering2009_zoom.webm %}
+{% video /motions/fering2009_zoom.webm %}
 
 ## Youtube link:
 

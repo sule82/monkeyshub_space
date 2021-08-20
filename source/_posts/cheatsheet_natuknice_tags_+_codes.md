@@ -6,7 +6,7 @@ categories:
   - Cheatsheets
 tags:
   - tags
-  - code
+  - natuknice
   - cli
 ---
 

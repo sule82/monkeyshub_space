@@ -43,8 +43,8 @@ port: 1234
 
 React <span style="color:var(--link-hover-color)" aria-label="mp3"><i class="fab fa-react"></i></span> nativni sićušni, <span aria-label="laganini"><i class="fa fa-feather"></i></span> lagani app sa HQ streamom testirajte na linku:
 
-<p class="centar">{% button http://rgstream.monkeyshub.space/, &nbsp;backup web player, icon fa fa-microphone-alt, radio gracanica %}</p>
+<div class="centar">{% button http://rgstream.monkeyshub.space/, &nbsp;backup web player, icon fa fa-microphone-alt, radio gracanica %}</div>
 
 # Stream na official sajtu
 
-<p class="centar">{% button https://radiogracanica.ba/uzivo/, &nbsp;oficijelni web sajt, icon fa fa-volume-up, radio gracanica %}</p>
+<div class="centar">{% button https://radiogracanica.ba/uzivo/, &nbsp;oficijelni web sajt, icon fa fa-volume-up, radio gracanica %}</div>

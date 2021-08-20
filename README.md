@@ -1,4 +1,4 @@
-<a title="Monkeys Hub Blog" href="https://monkeyshub.space"><img align="right" alt="NexT logo" width="100" height="100" src="https://monkeyshub.space/images/logo.svg"></a>
+<a title="Monkeys Hub Blog" href="https://monkeyshub.space"><img align="right" alt="Monkeys logo" width="100" height="100" src="https://monkeyshub.space/images/logo.svg"></a>
 
 # Monkeys Hub
 

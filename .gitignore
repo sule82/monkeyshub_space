@@ -3,9 +3,9 @@ package-lock.json
 node_modules/
 db.json
 public/
-deploy.sh
-docs/
-animate/
 highlight/
-plugins/
 _theme_backup/
+motions/
+scripts/
+lib/
+renovate.json
