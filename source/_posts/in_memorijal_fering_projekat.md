@@ -9,7 +9,8 @@ tags:
   - web sajt
   - video
 ---
-<a href="in_memorijal_fering_projekat" aria-label="pročitaj" title="Prvi samostalni projekat">{% img /covers/fering.webp '"fering" "fering"' %}</a>
+
+<a href="/in_memorijal_fering_projekat/" title="Prvi samostalni projekat" data-pjax-state="" data-pjax-state="">{% img /covers/fering.webp '"fering" "fering"' %}</a>
 
 <!--more-->
 

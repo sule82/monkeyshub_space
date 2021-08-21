@@ -10,7 +10,7 @@ tags:
   - api
 ---
 
-<a href="cheatsheet_github_emoji_api" aria-label="pročitaj" title="Github emoji Cheatsheet">{% img /covers/emoji_api.webp '"Github emoji Cheatsheet" "Github emoji Cheatsheet"' %}</a>
+<a href="/cheatsheet_github_emoji_api" aria-label="pročitaj" title="Github emoji Cheatsheet" data-pjax-state="">{% img /covers/emoji_api.webp '"Github emoji Cheatsheet" "Github emoji Cheatsheet"' %}</a>
 
 <!--more-->
 

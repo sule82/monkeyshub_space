@@ -10,7 +10,7 @@ tags:
   - design
 ---
 
-<a href="opensource_gracanica_wallpapers" aria-label="pročitaj" title="Gračanica Wallpapers">{% img /covers/gracanica/gracanica.webp '"Gračanica Wallpapers""Gračanica Wallpapers"' %}</a>
+<a href="/opensource_gracanica_wallpapers" aria-label="pročitaj" title="Gračanica Wallpapers" data-pjax-state="">{% img /covers/gracanica/gracanica.webp '"Gračanica Wallpapers""Gračanica Wallpapers"' %}</a>
 
 <!--more-->
 

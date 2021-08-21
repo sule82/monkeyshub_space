@@ -10,7 +10,7 @@ tags:
   - cli
 ---
 
-<a href="ffmpeg_concate_demuxer" aria-label="pročitaj" title="ffmpeg gif">{% img /covers/ffmpeg05.webp '"ffmpeg demuxer""ffmpeg demuxer"' %}</a>
+<a href="/ffmpeg_concate_demuxer" aria-label="pročitaj" title="ffmpeg gif" data-pjax-state="">{% img /covers/ffmpeg05.webp '"ffmpeg demuxer""ffmpeg demuxer"' %}</a>
 
 <!--more-->
 

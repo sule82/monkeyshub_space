@@ -10,7 +10,7 @@ tags:
   - cli
 ---
 
-<a href="ffmpeg_baby_tricks" aria-label="pročitaj" title="ffmpeg">{% img /covers/ffmpeg06.webp '"ffmpeg" "ffmpeg"' %}</a>
+<a href="/ffmpeg_baby_tricks" aria-label="pročitaj" title="ffmpeg" data-pjax-state="">{% img /covers/ffmpeg06.webp '"ffmpeg" "ffmpeg"' %}</a>
 
 <!--more-->
 

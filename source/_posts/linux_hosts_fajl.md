@@ -10,7 +10,7 @@ tags:
   - network
 ---
 
-<a href="linux_hosts_fajl" aria-label="pročitaj" title="Hosts fajl">{% img /covers/hosts.webp '"Hosts fajl""Hosts fajl"' %}</a>
+<a href="/linux_hosts_fajl" aria-label="pročitaj" title="Hosts fajl" data-pjax-state="">{% img /covers/hosts.webp '"Hosts fajl""Hosts fajl"' %}</a>
 
 <!--more-->
 

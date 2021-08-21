@@ -10,7 +10,7 @@ tags:
   - doh
 ---
 
-<a href="dns_javni_serveri" aria-label="pročitaj" title="DNS serveri">{% img /covers/dns-serveri.webp '"DNS serveri" "DNS serveri"' %}</a>
+<a href="/dns_javni_serveri" aria-label="pročitaj" title="DNS serveri" data-pjax-state="">{% img /covers/dns-serveri.webp '"DNS serveri" "DNS serveri"' %}</a>
 
 <!--more-->
 

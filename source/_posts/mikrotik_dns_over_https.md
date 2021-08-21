@@ -10,7 +10,7 @@ tags:
   - doh
 ---
 
-<a href="mikrotik_dns_over_https" aria-label="pročitaj" title="RouterOS DNS-over-HTTPS">{% img /covers/dns-mt.webp '"RouterOS DNS-over-HTTPS" "RouterOS DNS-over-HTTPS"' %}</a>
+<a href="/mikrotik_dns_over_https" aria-label="pročitaj" title="RouterOS DNS-over-HTTPS" data-pjax-state="">{% img /covers/dns-mt.webp '"RouterOS DNS-over-HTTPS" "RouterOS DNS-over-HTTPS"' %}</a>
 
 <!--more-->
 

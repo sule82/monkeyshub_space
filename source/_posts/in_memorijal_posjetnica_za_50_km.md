@@ -9,7 +9,7 @@ tags:
   - dizajn
   - vizitka
 ---
-<a href="in_memorijal_posjetnica_za_50_km" aria-label="pročitaj" title="Prvi samostalni projekat">{% img /covers/pedeset.webp '"vizitka" "posjetnica"' %}</a>
+<a href="/in_memorijal_posjetnica_za_50_km" aria-label="pročitaj" title="Prvi samostalni projekat" data-pjax-state="">{% img /covers/pedeset.webp '"vizitka" "posjetnica"' %}</a>
 
 <!--more-->
 

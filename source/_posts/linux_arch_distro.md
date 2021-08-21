@@ -10,7 +10,7 @@ tags:
   - manjaro
 ---
 
-<a href="linux_arch_distro" aria-label="pročitaj" title="Retro Folio">{% img /covers/arch/arch.webp '"Arch Linux" "Arch Linux"' %}</a>
+<a href="/linux_arch_distro" aria-label="pročitaj" title="Arch" data-pjax-state="">{% img /covers/arch/arch.webp '"Arch Linux""Arch Linux"' %}</a>
 
 <!--more-->
 

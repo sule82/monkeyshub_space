@@ -10,7 +10,7 @@ tags:
   - opensource
 ---
 
-<a href="opensource_projekat_covid_19" aria-label="pročitaj" title="COVID-19">{% img /covers/covid19.webp '"COVID-19""COVID-19"' %}</a>
+<a href="/opensource_projekat_covid_19" aria-label="pročitaj" title="COVID-19" data-pjax-state="">{% img /covers/covid19.webp '"COVID-19""COVID-19"' %}</a>
 
 <!--more-->
 

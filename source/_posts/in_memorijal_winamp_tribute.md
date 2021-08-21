@@ -9,7 +9,7 @@ tags:
   - opensource
   - muzika
 ---
-<a href="in_memorijal_winamp_tribute" aria-label="pročitaj" title="Winamp Tribute">{% img /covers/webamp.webp '"Winamp Tribute" "Winamp Tribute"' %}</a>
+<a href="/in_memorijal_winamp_tribute" aria-label="pročitaj" title="Winamp Tribute" data-pjax-state="">{% img /covers/webamp.webp '"Winamp Tribute" "Winamp Tribute"' %}</a>
 
 <!--more-->
 

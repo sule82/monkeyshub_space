@@ -10,7 +10,7 @@ tags:
   - dizajn
 ---
 
-<a href="galerija_slika_retro_folio" aria-label="pročitaj" title="Retro Folio">{% img /covers/retrofolijo.webp '"Retro Folio" "Retro Folio"' %}</a>
+<a href="/galerija_slika_retro_folio" aria-label="pročitaj" title="Retro Folio" data-pjax-state="">{% img /covers/retrofolijo.webp '"Retro Folio" "Retro Folio"' %}</a>
 
 <!--more-->
 

@@ -10,7 +10,7 @@ tags:
   - pretraga
 ---
 
-<a href="mikrotik_pogresne_postavke" aria-label="pročitaj" title="Googlanje">{% img /covers/jungle.webp '"Googlanje""Googlanje"' %}</a>
+<a href="/mikrotik_pogresne_postavke" aria-label="pročitaj" title="Googlanje" data-pjax-state="">{% img /covers/jungle.webp '"Googlanje""Googlanje"' %}</a>
 
 <!--more-->
 

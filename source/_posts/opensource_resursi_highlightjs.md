@@ -10,7 +10,7 @@ tags:
   - opensource
 ---
 
-<a href="opensource_resursi_highlightjs" aria-label="pročitaj" title="Highlight JS">{% img /covers/highlightjs.webp '"highlight.js" "highlight.js"' %}</a>
+<a href="/opensource_resursi_highlightjs" aria-label="pročitaj" title="Highlight JS" data-pjax-state="">{% img /covers/highlightjs.webp '"highlight.js" "highlight.js"' %}</a>
 
 <!--more-->
 

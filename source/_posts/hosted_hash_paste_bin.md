@@ -10,7 +10,7 @@ tags:
   - hosted
 ---
 
-<a href="opensource_projekat_radio_gracanica" aria-label="pročitaj" title="Hashbin [#]">{% img /covers/hashbin.webp '"Hashbin [#]" "Hashbin [#]"' %}</a>
+<a href="/opensource_projekat_radio_gracanica" aria-label="pročitaj" title="Hashbin [#]" data-pjax-state="">{% img /covers/hashbin.webp '"Hashbin [#]" "Hashbin [#]"' %}</a>
 
 <!--more-->
 

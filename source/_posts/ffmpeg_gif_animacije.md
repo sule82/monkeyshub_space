@@ -10,7 +10,7 @@ tags:
   - cli
 ---
 
-<a href="ffmpeg_gif_animacije" aria-label="pročitaj" title="ffmpeg gif">{% img /covers/ffmpeg.gif '"ffmpeg gif""ffmpeg gif"' %}</a>
+<a href="/ffmpeg_gif_animacije" aria-label="pročitaj" title="ffmpeg gif" data-pjax-state="">{% img /covers/ffmpeg.gif '"ffmpeg gif""ffmpeg gif"' %}</a>
 
 <!--more-->
 

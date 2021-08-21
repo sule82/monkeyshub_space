@@ -10,7 +10,7 @@ tags:
   - api
 ---
 
-<a href="cheatsheet_fontawesome_api" aria-label="pročitaj" title="Font Awesome Cheatsheet">{% img /covers/font-awesome.webp '"Font Awesome Cheatsheet" "Font Awesome Cheatsheet"' %}</a>
+<a href="/cheatsheet_fontawesome_api" aria-label="pročitaj" title="Font Awesome Cheatsheet" data-pjax-state="">{% img /covers/font-awesome.webp '"Font Awesome Cheatsheet" "Font Awesome Cheatsheet"' %}</a>
 
 <!--more-->
 

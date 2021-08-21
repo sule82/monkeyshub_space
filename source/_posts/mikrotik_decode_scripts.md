@@ -10,7 +10,7 @@ tags:
   - decode
 ---
 
-<a href="mikrotik_decode_scripts" aria-label="pročitaj" title="Mikrotik Decode">{% img /covers/supout.webp 'Mikrotik Decode" "Mikrotik Decode"' %}</a>
+<a href="/mikrotik_decode_scripts" aria-label="pročitaj" title="Mikrotik Decode" data-pjax-state="">{% img /covers/supout.webp 'Mikrotik Decode" "Mikrotik Decode"' %}</a>
 
 <!--more-->
 

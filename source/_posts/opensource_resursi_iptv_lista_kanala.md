@@ -10,7 +10,7 @@ tags:
   - stream
 ---
 
-<a href="opensource_resursi_iptv_lista_kanala" aria-label="pročitaj" title="IPTV Lista Besplatnih Kanala">{% img /covers/freeiptv.webp '"iptv org" "iptv org"' %}</a>
+<a href="/opensource_resursi_iptv_lista_kanala" aria-label="pročitaj" title="IPTV Lista Besplatnih Kanala" data-pjax-state="">{% img /covers/freeiptv.webp '"iptv org" "iptv org"' %}</a>
 
 Kompilacija **8000+ javno dostupnih** IPTV kanala, i resursi *korisnih* besplatnih aplikacija, alata.
 

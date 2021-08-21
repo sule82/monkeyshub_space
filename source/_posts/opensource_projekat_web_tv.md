@@ -10,7 +10,7 @@ tags:
   - opensource
 ---
 
-<a href="opensource_projekat_web_tv" aria-label="pročitaj" title="IPTV Web App">{% img /covers/webtv.webp '"IPTV Web App""IPTV Web App"' %}</a>
+<a href="/opensource_projekat_web_tv" aria-label="pročitaj" title="IPTV Web App" data-pjax-state="">{% img /covers/webtv.webp '"IPTV Web App""IPTV Web App"' %}</a>
 
 <!--more-->
 

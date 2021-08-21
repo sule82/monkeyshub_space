@@ -10,7 +10,7 @@ tags:
   - portfolio
 ---
 
-<a href="galerija_video_spotova_retro_folio" aria-label="pročitaj" title="Retro Video Folio">{% img /covers/wiracnet_retro.webp '"Retro Video Folio""Retro Video Folio"' %}</a>
+<a href="/galerija_video_spotova_retro_folio" aria-label="pročitaj" title="Retro Video Folio" data-pjax-state="">{% img /covers/wiracnet_retro.webp '"Retro Video Folio""Retro Video Folio"' %}</a>
 
 <!--more-->
 

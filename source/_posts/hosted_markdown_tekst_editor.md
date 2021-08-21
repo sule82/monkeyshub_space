@@ -10,7 +10,7 @@ tags:
   - hosted
 ---
 
-<a href="hosted_markdown_tekst_editor" aria-label="pročitaj" title="Markdown tekst editor">{% img /covers/editormd.webp '"MD tekst editor" "MD tekst editor"' %}</a>
+<a href="/hosted_markdown_tekst_editor" aria-label="pročitaj" title="Markdown tekst editor" data-pjax-state="">{% img /covers/editormd.webp '"MD tekst editor" "MD tekst editor"' %}</a>
 
 <!--more-->
 

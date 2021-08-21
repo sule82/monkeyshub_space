@@ -10,7 +10,7 @@ tags:
   - opensource
 ---
 
-<a href="opensource_projekat_radio_gracanica" aria-label="pročitaj" title="Radio Gračanica Live Stream">{% img /covers/radiostream.webp '"Radio Gracanica" "Live Stream"' %}</a>
+<a href="/opensource_projekat_radio_gracanica" aria-label="pročitaj" title="Radio Gračanica Live Stream" data-pjax-state="">{% img /covers/radiostream.webp '"Radio Gracanica" "Live Stream"' %}</a>
 
 <!--more-->
 

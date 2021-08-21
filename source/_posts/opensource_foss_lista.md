@@ -9,7 +9,7 @@ tags:
   - software
   - code
 ---
-<a href="opensource_foss_lista" aria-label="pročitaj" title="FOSS lista">{% img /covers/fossos.webp '"foss" "foss"' %}</a>
+<a href="/opensource_foss_lista" aria-label="pročitaj" title="FOSS lista" data-pjax-state="">{% img /covers/fossos.webp '"foss" "foss"' %}</a>
 
 <!--more-->
 

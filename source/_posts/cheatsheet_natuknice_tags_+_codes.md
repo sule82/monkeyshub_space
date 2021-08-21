@@ -10,11 +10,8 @@ tags:
   - cli
 ---
 
-<div class="centar">→
-<span style="color:#6ccc9c" role="img" aria-label="Trash"><i class="fa fa-trash"></i></span>↓
-</div>
-<div class="centar">
-<span role="img" aria-label="Godzilla">← 🐟 🐦 🐕 🐈 ←</span>
+<div class="centar tekst-150">
+<span role="img" aria-label="giticons">:cd: :dvd: :floppy_disk: :camera: :video_camera: :movie_camera: :computer: :tv: :iphone: :phone: :telephone: :telephone_receiver: :pager: :fax: :minidisc: :vhs: :sound: :speaker: :mute: :loudspeaker: :mega: :hourglass: :hourglass_flowing_sand: :alarm_clock: :watch: :radio: :satellite: :loop: :mag: :mag_right: :unlock: :lock: :lock_with_ink_pen: :closed_lock_with_key: :key: :bulb: :flashlight: :high_brightness: :low_brightness: :electric_plug: :battery: :calling: :email: :mailbox: :postbox: :bath: :bathtub: :shower: :toilet: :wrench: :nut_and_bolt: :hammer: :seat: :moneybag: :yen: :dollar: :pound: :euro: :credit_card: :money_with_wings:</span><br/>↓<br/><span class="green" role="img" aria-label="Trash"><i class="fa fa-trash"></i></span><br/>↓<br/><span role="img" aria-label="Godzilla">🐟 🐦 🐕 🐈</span>
 </div>
 
 <!--more-->

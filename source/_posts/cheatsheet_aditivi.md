@@ -10,7 +10,7 @@ tags:
   - zdravlje
 ---
 
-<a href="cheatsheet_aditivi" aria-label="pročitaj" title="Aditivi [E]">{% img /covers/aditivi.webp '"Aditivi [E]" "Aditivi [E]"' %}</a>
+<a href="/cheatsheet_aditivi" aria-label="pročitaj" title="Aditivi [E]" data-pjax-state="">{% img /covers/aditivi.webp '"Aditivi [E]" "Aditivi [E]"' %}</a>
 
 <!--more-->
 
