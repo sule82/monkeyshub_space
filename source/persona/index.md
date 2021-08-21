@@ -87,5 +87,5 @@ Pogledajte i štampajte web verziju, ili skinite CV u pdf formatu klikom na tipk
 ___
 
 ```txt Status
-[Gomen ne] > | I'm Not Available Right Now |
+[X] > | I'm Not Available Right Now |
 ```
